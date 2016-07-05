@@ -1,0 +1,10 @@
+[package]
+name = "doublej_playlist"
+version = "0.1.0"
+authors = ["Stacy Andrews <stacy.andrews@iinet.net.au>"]
+
+[dependencies]
+
+hyper="0.9.9"
+serde = "*"
+serde_json = "*"
